@@ -1,0 +1,31 @@
+li{
+     color: #0f8a76;
+     font-size: 23px;
+}
+
+h1{
+     color: purple;
+     font-size: 50px;
+     border: 2px dotted white;
+}
+
+h3{
+     color: aliceblue;
+     font-size: 28px;
+}
+
+body{
+     background-image: url("http://s2.glbimg.com/Ft_0jxXBGBFsDZSMIZqYLM-KJM4=/e.glbimg.com/og/ed/f/original/2017/06/13/jupiter.jpg");
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+.class{
+     color: yellow;
+     font-size: 33px;
+}
+
+#id{
+     color: chartreuse;
+     font-size: 20px;
+}
